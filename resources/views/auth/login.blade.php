@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div align="center">
-        <div style="width:100px; height:100px;"> <img src="{{asset('/images/logo.jpg')}}" class="img-thumbnail" alt="Pet Time">
+        <div style="width:110px; height:110px;"> <img src="{{asset('/images/logo2.jpg')}}" class="img-thumbnail" alt="Pet Time">
     </div>
 
     <div class="row justify-content-center">
