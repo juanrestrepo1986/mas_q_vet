@@ -2,11 +2,13 @@
 
 @section('content')
 <div class="container">
+    <div align="center"><div style="width:100px; height:100px; border:1px black solid; background: url('Mas_q_vet.jpg');"></div></div>
     <div class="row justify-content-center">
         <div class="col-md-6">
             <div class="card">
+
                 <div class="card-header">
-                    <h3 align="center"><font color="green" face="Arial">{{ __('Iniciar sesión') }}<h4>{{ __('Mas-Q-Vet') }}</h4></font></h3>
+                    <h3 align="center"><font color="green" face="Arial">{{ __('Iniciar sesión') }}<h4>{{ __('Veterinaria Orion') }}</h4></font></h3>
                     </div>
 
                 <div class="card-body">
